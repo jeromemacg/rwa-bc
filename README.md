@@ -38,13 +38,13 @@ Background summary of the Architecture
 
 ### Tech Stack
 
-Smart Contracts using Anchor 
-Frontend UI Next.js, Tailwind, Wallet Adapters 
-Token UI Solana SPL, Token SDK 
-Rental Management Node.js, @solana/web3.js
-Governance Realms (SPL DAO) or custom Anchor logic
-Hosting	Vercel + Firebase/Hasura for metadata
-KYC	Civic Pass, Fractal ID, or off-chain checks
+- Smart Contracts using Anchor
+- Frontend UI Next.js, Tailwind, Wallet Adapters
+- Token UI Solana SPL, Token SDK
+- Rental Management Node.js, @solana/web3.js
+- Governance Realms (SPL DAO) or custom Anchor logic
+- Hosting	Vercel + Firebase/Hasura for metadata
+- KYC - Civic Pass, Fractal ID, or off-chain checks
 
 ## Set Up for Testing
 
